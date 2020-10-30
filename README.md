@@ -24,7 +24,7 @@ available.
 
 # Returned JSON Data Format
 Below JSON represents a typical returned dataset, formatted here for readability.
-[
+```[
   {
     "id":266,
     "first_name":"Ancell",
@@ -45,7 +45,7 @@ Below JSON represents a typical returned dataset, formatted here for readability
   },
   ...
 ]
-
+```
 # Deployment 
 Altering the maven targets to create war files would build a deployable web archive file
 which can be deployed to any number of target servers.
